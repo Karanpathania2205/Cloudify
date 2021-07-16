@@ -1,2 +1,2 @@
 # Cloudify
-A cloud hosting platform website
+A responsive cloud hosting platform website .
